@@ -3,8 +3,10 @@
 </p>
 
 <p align="center">
-Stylo convert all used texts to Text Styles in Figma.
+Stylo figma plugin to convert all used texts to Text Styles in Figma.
 </p>
+
+![](https://github.com/kirwa-KO/stylo-figma-plugin/blob/main/readme/cover.png)
 
 ## Stylo help you
 
